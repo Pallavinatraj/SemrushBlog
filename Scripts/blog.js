@@ -1,3 +1,3 @@
- document.querySelector(".search").addEventListener("click", () =>{
+  document.querySelector(".search").addEventListener("click", () =>{
     window.location.href = "./index.html"
 })
